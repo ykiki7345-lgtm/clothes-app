@@ -1,3 +1,5 @@
+import 'home_screen.dart';
+
 void main() {
-  print("Hello Clothes App!");
+  homeScreen();
 }
